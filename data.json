@@ -1,0 +1,82 @@
+{
+  "batch": 718,
+  "start": "2022-02-08",
+  "career_days": [
+    {
+      "title": "Dev Evening | 3hrs",
+      "description": "3hrs of developement",
+      "important": false
+    },
+    {
+      "title": "Dev Evening | 3hrs",
+      "description": "3hrs of developement",
+      "important": false
+    },
+    {
+      "title": "Dev Evening | 7hrs",
+      "description": "7hrs of developement",
+      "important": false
+    },
+    {
+      "title": "Dev Evening | 3hrs",
+      "description": "3hrs of developement",
+      "important": false
+    },
+    {
+      "title": "Dev Evening | 3hrs",
+      "description": "3hrs of developement",
+      "important": false
+    },
+    {
+      "title": "1st Pitch",
+      "description": "4hrs of developement, 3hrs of debugging/pitch prep. and Pitch in front of everyone",
+      "important": true
+    },
+    {
+      "title": "Dev Evening | 3hrs",
+      "description": "3hrs of developement",
+      "important": false
+    },
+    {
+      "title": "Dev Evening | 3hrs",
+      "description": "3hrs of developement",
+      "important": false
+    },
+    {
+      "title": " 2nd Pitch",
+      "description": "5hrs of developement, 2hrs of debugging/pitch prep. and Pitch in front of everyone",
+      "important": true
+    },
+    {
+      "title": "Dev Evening | 3hrs",
+      "description": "3hrs of developement",
+      "important": false
+    },
+    {
+      "title": "Dev Evening | 3hrs",
+      "description": "3hrs of developement",
+      "important": false
+    },
+    {
+      "title": "Individual Pitches",
+      "description": "7hrs of developement, teams book individual pitches with TA throughout the day",
+      "important": true
+    },
+    {
+      "title": "Final touch Evening | 3hrs",
+      "description": "3hrs of developement",
+      "important": false
+    },
+    {
+      "title": "Final touch Evening | 3hrs",
+      "description": "3hrs of developement",
+      "important": false
+    },
+    {
+      "title": "Demo Day 👯‍♀️",
+      "description": "Be ready for the final demo, lights on!"
+   ,       "important": true
+    }
+  ]
+}
+
